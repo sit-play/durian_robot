@@ -12,3 +12,9 @@ data/collected_images/**/*.jpg
 data/collected_images/**/*.png
 *.bag
 *.log
+
+# Data - Local only
+data/images/
+*.jpg
+*.png
+*.bmp

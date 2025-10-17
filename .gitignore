@@ -1,0 +1,14 @@
+build/
+install/
+log/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
+*.swp
+data/collected_images/**/*.jpg
+data/collected_images/**/*.png
+*.bag
+*.log
